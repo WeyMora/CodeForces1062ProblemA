@@ -22,5 +22,6 @@ public class App {
                 System.out.println("NO");
             }
         }
+        scanner.close();
     }
 }   
